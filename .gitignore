@@ -1,0 +1,46 @@
+# Java / Maven / IDE
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build output
+/target/
+**/target/
+
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Spring Boot / environment files
+.env
+.env.*
+application-local.properties
+application-dev.properties
+
+# MySQL / DB local files
+*.sql~
+
+# Temporary files
+*.tmp
+*.bak
+
+# Node / frontend local files
+node_modules/
+
+# OS-specific
+Desktop.ini
